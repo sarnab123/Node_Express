@@ -1,0 +1,27 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install express --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarnab123/Node_Express.git"
+  },
+  "keywords": [
+    "test"
+  ],
+   "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest"
+    },
+  "author": "Sarnab Podder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarnab123/Node_Express/issues"
+  },
+  "homepage": "https://github.com/sarnab123/Node_Express#readme"
+}
