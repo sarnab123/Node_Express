@@ -17,7 +17,13 @@
         "socket.io": "latest",
         "express": "latest",
         "jade": "latest",
-	"httpdispatcher": "latest"
+	"httpdispatcher": "latest",
+	"body-parser": "latest",
+	"morgan": "latest",
+	"geocoder": "latest",
+	"async": "latest",
+	"geolib": "latest",
+	"mongoose": "latest"
     },
   "author": "Sarnab Podder",
   "license": "ISC",
