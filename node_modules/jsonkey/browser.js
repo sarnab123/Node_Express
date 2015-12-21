@@ -1,0 +1,1 @@
+window.JSONKey = require("./lib/jsonkey");

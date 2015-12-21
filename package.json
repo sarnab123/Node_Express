@@ -16,7 +16,8 @@
    "dependencies": {
         "socket.io": "latest",
         "express": "latest",
-        "jade": "latest"
+        "jade": "latest",
+	"httpdispatcher": "latest"
     },
   "author": "Sarnab Podder",
   "license": "ISC",
