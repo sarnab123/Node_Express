@@ -14,7 +14,6 @@
     "test"
   ],
    "dependencies": {
-        "socket.io": "latest",
         "express": "latest",
         "jade": "latest",
 	"httpdispatcher": "latest",
