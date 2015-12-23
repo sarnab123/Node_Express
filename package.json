@@ -2,32 +2,15 @@
   "name": "firstapp",
   "version": "1.0.0",
   "description": "test app",
-  "main": "./location_server/index.js",
-  "scripts": {
-    "test": "npm install express --save"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sarnab123/Node_Express.git"
-  },
-  "keywords": [
-    "test"
-  ],
+  "main": "index.js",
    "dependencies": {
-        "express": "latest",
-        "jade": "latest",
-	"httpdispatcher": "latest",
-	"body-parser": "latest",
-	"morgan": "latest",
+        "express": "~4.6.1",
+    	"mongoose": "~3.8.13",
+    	"morgan": "~1.1.1",
+    	"body-parser": "~1.4.3",
 	"geocoder": "latest",
 	"async": "latest",
-	"geolib": "latest",
-	"mongoose": "latest"
+	"geolib": "latest"
     },
-  "author": "Sarnab Podder",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sarnab123/Node_Express/issues"
-  },
-  "homepage": "https://github.com/sarnab123/Node_Express#readme"
+  "author": "Sarnab Podder"
 }
